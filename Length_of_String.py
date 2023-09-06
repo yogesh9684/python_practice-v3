@@ -10,4 +10,4 @@ print("Length of String is",Count)
 #Approch 2
 
 String = "HELLOWORLD"
-print(len(String))
+print("Length of String is",len(String))
