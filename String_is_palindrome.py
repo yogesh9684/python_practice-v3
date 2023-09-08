@@ -6,3 +6,4 @@ if string1[::-1] == string1:
     print("String is Palindrome")
 else:
     print("Not Palindrome")
+
